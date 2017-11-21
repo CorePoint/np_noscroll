@@ -5,7 +5,7 @@ class np_noscroll extends Plugin {
 
 	function about() {
 		return array(1.0,
-			"swaps next/previous with and without scroll keybindings",
+			"swaps next/previous article with and without scroll keybindings",
 			"CorePoint");
 	}
 
